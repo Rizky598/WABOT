@@ -11,7 +11,7 @@ Bot ini dilengkapi fitur scan barcode dan fairing jadi bisa pilih opsi mana apal
 grup WhatsApp
  
 ```bash
-
+pkg install git
 git clone https://github.com/Rizky598/WABOT.git
 cd WABOT
 chmod +x WABOT.sh
