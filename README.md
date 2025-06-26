@@ -9,9 +9,6 @@ Bot ini dilengkapi fitur scan barcode dan fairing jadi bisa pilih opsi mana apal
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/CZcMAG9LrF9KEPyKfGsmQO)
 
 grup WhatsApp
-
-=================================
-masukkan aja script yang di bawah untuk script termux😊
  
 ```bash
 
