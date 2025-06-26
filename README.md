@@ -12,14 +12,8 @@ grup WhatsApp
  
 ```bash
 
-git clone https://github.com/Rizky598/OTP.Wa.git
-
-```
-
-```bash
-
-cd OTP.Wa
-npm install
-npm start
-
+git clone https://github.com/Rizky598/WABOT.git
+cd WABOT
+chmod +x WABOT.sh
+./WABOT.sh
 ```
