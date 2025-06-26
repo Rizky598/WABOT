@@ -18,5 +18,5 @@ cd WABOT
 tar -xvzf archive-2025-06-26T065303Z.tar.gz
 cd extracted_folder/
 chmod +x WABOT.sh
-./WABOT.sh
+bash WABOT.sh
 ```
