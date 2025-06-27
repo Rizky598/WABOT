@@ -25,3 +25,8 @@ Untuk menghapus folder bernama session di Termux kamu bisa gunakan perintah beri
 ```bash
 rm -rf session
 ```
+
+<div align="center">
+  <p>
+    <img src="1.jpg" width="200">
+    </p>
