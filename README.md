@@ -10,9 +10,6 @@ Bot ini dilengkapi fitur scan barcode dan fairing jadi bisa pilih opsi mana apal
 
 # grup WhatsApp
 
-# tutorial
-
-Kalau muncul tulisan seperti ini, tekan saja Y. Lakukan ini setiap proses berhenti. Setelah masuk ke menu utama (pilihan QR dan pairing), pastikan semua tulisan diketik dengan huruf kecil
 
 Download file bot dengan mengetik di termux tulisan di bawah ini
  
@@ -30,7 +27,9 @@ Untuk menghapus folder bernama session di Termux kamu bisa gunakan perintah beri
 ```bash
 rm -rf session
 ```
+# tutorial
 
+Kalau muncul tulisan seperti ini, tekan saja Y. Lakukan ini setiap proses berhenti. Setelah masuk ke menu utama (pilihan QR dan pairing), pastikan semua tulisan diketik dengan huruf kecil
 <div align="center">
   <p>
     <img src="1.jpg" width="200">
