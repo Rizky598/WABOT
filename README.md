@@ -32,5 +32,6 @@ rm -rf session
 Kalau muncul tulisan seperti ini, tekan saja Y. Lakukan ini setiap proses berhenti. Setelah masuk ke menu utama (pilihan QR dan pairing), pastikan semua tulisan diketik dengan huruf kecil
 <div align="center">
   <p>
-    <img src="1.jpg" width="200">
+    <img src="2.jpg" width="200">
     </p>
+"BTW, setelah bot aktif di WhatsApp, semua perintah harus diketik dengan huruf kecil. Misalnya, ketik menu, bukan Menu atau MENU"
