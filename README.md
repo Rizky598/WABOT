@@ -9,6 +9,11 @@ Bot ini dilengkapi fitur scan barcode dan fairing jadi bisa pilih opsi mana apal
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Jmbs0K52j3fB4FOP5wViWX)
 
 # grup WhatsApp
+
+# tutorial
+
+Kalau muncul tulisan seperti ini, tekan saja Y. Lakukan ini setiap proses berhenti. Setelah masuk ke menu utama (pilihan QR dan pairing), pastikan semua tulisan diketik dengan huruf kecil
+
 Download file bot dengan mengetik di termux tulisan di bawah ini
  
 ```bash
