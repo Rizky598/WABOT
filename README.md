@@ -20,7 +20,7 @@ cd extracted_folder/
 chmod +x install-bot.sh
 sh install-bot.sh
 ```
-# Untuk menghapus folder bernama session di Termux kamu bisa gunakan perintah berikut😊
+Untuk menghapus folder bernama session di Termux kamu bisa gunakan perintah berikut😊
 
 ```bash
 rm -rf session
