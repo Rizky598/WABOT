@@ -6,7 +6,7 @@ Bot ini dilengkapi fitur scan barcode dan fairing jadi bisa pilih opsi mana apal
     </p>
   
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/83850540570)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283850540570)
 
 # grup WhatsApp
 Download file bot dengan mengetik di termux tulisan di bawah ini
